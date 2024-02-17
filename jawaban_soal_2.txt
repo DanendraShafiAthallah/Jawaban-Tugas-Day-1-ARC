@@ -1,0 +1,3 @@
+NIM/Nama : 19623016/Danendra Shafi Athallah
+Apa itu git rebase?
+Git rebase merupakan sebuah perintah yang tersedia pada Git yang digunakan untuk memperbarui riwayat commit di sebuah branch dengan cara memutar ulang commit-nya di atas riwayat commit branch lain yang seringkali dengan tujuan seperti menjaga riwayat commit tetap rapi, memudahkan kolaborasi, dan mempermudah proses deploy kodenya.

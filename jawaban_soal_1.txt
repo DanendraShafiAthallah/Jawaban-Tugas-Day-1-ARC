@@ -1,0 +1,3 @@
+NIM/Nama : 19623016/Danendra Shafi Athallah
+Apa itu merge conflict? Bagaimana cara menanggulanginya? 
+Merge conflict adalah situasi yang sering terjadi ketika dua orang programmer atau lebih mengerjakan suatu bagian kode yang sama secara bersamaan dan dua versi kode yang berbeda dari programmer tersebut digabungkan dan terdapat beberapa hal yang saling bertentangan pada baris kode yang sama. Namun hal ini dapat diselesaikan dengan mengidentifikasi permasalahan, sepakati perubahan yang ingin disimpan, edit filenya, dan simpan file.
